@@ -1,4 +1,4 @@
-import { BrowserModule } from '@angular/platform-browser';
+import { BrowserModule, Title } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
@@ -8,6 +8,8 @@ import { HeaderComponent } from './layout/header/header.component';
 import { FooterComponent } from './layout/footer/footer.component';
 import { AccountInfoComponent } from './layout/header/account-info/account-info.component';
 import { SecondaryNavComponent } from './layout/header/secondary-nav/secondary-nav.component';
+import { HomeComponent } from './components/home/home.component';
+import { BookComponent } from './components/book/book.component';
 
 @NgModule({
   declarations: [
@@ -15,14 +17,16 @@ import { SecondaryNavComponent } from './layout/header/secondary-nav/secondary-n
     HeaderComponent,
     FooterComponent,
     AccountInfoComponent,
-    SecondaryNavComponent
+    SecondaryNavComponent,
+    HomeComponent,
+    BookComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     NgbModule
   ],
-  providers: [],
+  providers: [Title],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
