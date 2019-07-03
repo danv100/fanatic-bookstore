@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Great AngularJS Mystery",
+        "author": "John Doe",
+        "description": "A tale of suspense and confusion about a developer finding out the truth of why AngularJS was scraped.",
+        "price": 34.35
+    },
+    {
+        "title": "Unforgivable Coding Crimes",
+        "author": "Miran Delly",
+        "description": "Some of the most surprising, heinous, and unforgivable code released on the market, and the catastrophes they have or could have released",
+        "price": 19.95
+    },
+    {
+        "title": "Where Did All the Donuts Go",
+        "author": "Jan Baker",
+        "description": "The crime of not getting a donut during donut day at the office drive an employee to start a secret donut shop.... in the break room.",
+        "price": 12.99
+    },
+    {
+        "title": "The Processing Cap",
+        "author": "Susane Roe",
+        "description": "Making faster processors is getting harder, and the market for buying new computers is slowing down. Companies are getting desperate to sell new products, but how far will they go?",
+        "price": 24.25
+    },
+    {
+        "title": "Floppy Disks",
+        "author": "Iam Holdt",
+        "description": "A villian has uploaded a database of life saving information onto many many many floppy disks. Can the team load the disks quickly enough before the disks expire?",
+        "price": 7.35
+    },
+    {
+        "title": "Bandwidth Stealer",
+        "author": "Rex Malton",
+        "description": "Someone in the office is taking all the bandwidth and watching videos. No one can get their work done.  Who is doing it?",
+        "price": 31.22,
+    },
+    {
+        "title": "Ironic Ionic",
+        "author": "John Doe",
+        "description": "A team is tasked with making prokects in Ionic,  but their competitor seems to keep beatingthem on deadlines using React Native. Is there a spy working for the competitor?",
+        "price": 4.35
+    },
+    {
+        "title": "The Scrum Master",
+        "author": "Harry Hendrix",
+        "description": "Gather around the conference table,  we're about to have our morning Scrum!.",
+        "price": 14.35
+    },
+    {
+        "title": "Another Book Title",
+        "author": "Eric Wang",
+        "description": "I blanked out on an idea for this book. I knew I wanted it to be expensive though.",
+        "price": 234.35
+    },
+    {
+        "title": "Six Year Fear",
+        "author": "Ezra Jolel",
+        "description": "Every six years,  the tech industry goes through a change of skills that changes it's approach and performance. Can developers survive it?",
+        "price": 8.35
+    },
+]

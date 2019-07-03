@@ -1,5 +1,22 @@
 footer {
     background-color: #494949;
-    color: #ffffff;
+    border-top: .6em solid black;
+    color: #ddd;
     padding: .2em;
+    padding-top: .6em;
+}
+
+.footer-list {
+    list-style-type: none;
+    
+    li {
+        cursor: pointer;
+        display: inline-block;
+        font-weight: bold;
+        padding: 0 3.5em 0 3.5em;
+    }
+
+    li:hover {
+        color: yellow;
+    }
 }
