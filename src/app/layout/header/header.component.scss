@@ -1,12 +1,43 @@
-.altcolor {
-    color: #68a900;
-}
-
 header {
-    background-color: bisque;
+    background-color: #064880;
+    color: #ffffff;
     padding: .2em;
 }
 
-p:first-child {
-    margin-top: 0;
+.mainNavList {
+    list-style: none;
+    margin-top: .15em;
+    padding-left: 0;
+
+    li {
+        border-left: #ffffff 1px solid;
+        cursor: pointer;
+        display: inline-block;
+        margin-top: .25em;     
+        padding-left: .35em;
+        padding-right: .35em;
+        padding-bottom: .1em;
+    }
+
+    li:hover {
+        color: yellow;
+    }
+
+    li:first-child {
+        border-left: none;
+        padding-left: 0;
+    }
+}
+
+nav {
+    background-color: #015397;
+    color: #ffffff;
+    padding: .2em;
+    padding-top: .6em;
+}
+
+.searchBtnColor {
+    background-color: #68a900;
+    color: #effadd;
+    font-weight: bold;
 }
