@@ -13,5 +13,11 @@ $color-i: #ffffff;
 
 
 body {
+    
     margin: 0;
+}
+
+html {
+    background-color: $color-f;
+    overflow-y: scroll;
 }
