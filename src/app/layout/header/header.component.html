@@ -17,14 +17,14 @@
         <div class="row">
             <div class="col-9">
                 <ul class="mainNavList">
-                    <li (mouseover)="secondaryToggle=true" (mouseout)="secondaryToggle=false"><a>Biography</a></li>
-                    <li><a>Business</a></li>
-                    <li><a>Cookbooks</a></li>
-                    <li><a>Fiction</a></li>
-                    <li><a>Health &amp; Fitness</a></li>
-                    <li><a>History</a></li>
-                    <li><a>Religion &amp; Inspiration</a></li>
-                    <li><a>Self-Improvement</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Biography</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Business</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Cookbooks</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Fiction</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Health &amp; Fitness</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>History</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Religion &amp; Inspiration</a></li>
+                    <li (mouseover)="secondaryToggle=true"><a>Self-Improvement</a></li>
                 </ul>
             </div>
             <div class="col-3">
@@ -42,7 +42,7 @@
 <!-- Primary Navigation End -->
 
 <!--Secondary Nav Start-->
-<app-secondary-nav *ngIf="secondaryToggle"></app-secondary-nav>
+<app-secondary-nav *ngIf="secondaryToggle" (click)="secondaryToggle=false"></app-secondary-nav>
 <!--Secondary Nav End-->
 
 
