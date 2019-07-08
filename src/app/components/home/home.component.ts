@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import booklistJSON from '../../../assets/json/booklist.json';
 
 @Component({
   selector: 'app-home',
@@ -11,5 +12,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
   }
+
+  booklist: any = booklistJSON;
 
 }

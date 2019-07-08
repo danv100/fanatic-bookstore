@@ -33,7 +33,7 @@
         "title": "Bandwidth Stealer",
         "author": "Rex Malton",
         "description": "Someone in the office is taking all the bandwidth and watching videos. No one can get their work done.  Who is doing it?",
-        "price": 31.22,
+        "price": 31.22
     },
     {
         "title": "Ironic Ionic",
@@ -58,5 +58,5 @@
         "author": "Ezra Jolel",
         "description": "Every six years,  the tech industry goes through a change of skills that changes it's approach and performance. Can developers survive it?",
         "price": 8.35
-    },
+    }
 ]
