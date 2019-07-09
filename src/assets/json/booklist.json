@@ -1,62 +1,62 @@
 [
     {
-        "title": "The Great AngularJS Mystery",
-        "author": "John Doe",
-        "description": "A tale of suspense and confusion about a developer finding out the truth of why AngularJS was scraped.",
+        "title": "Teen Titans - Raven",
+        "author": "Kami Garcia",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
         "price": 34.35
     },
     {
-        "title": "Unforgivable Coding Crimes",
-        "author": "Miran Delly",
-        "description": "Some of the most surprising, heinous, and unforgivable code released on the market, and the catastrophes they have or could have released",
+        "title": "Whisper Network",
+        "author": "Chandler Baker",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 19.95
     },
     {
-        "title": "Where Did All the Donuts Go",
-        "author": "Jan Baker",
-        "description": "The crime of not getting a donut during donut day at the office drive an employee to start a secret donut shop.... in the break room.",
+        "title": "A Nearly Normal Family",
+        "author": "M. T. Edwardsson",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 12.99
     },
     {
-        "title": "The Processing Cap",
-        "author": "Susane Roe",
-        "description": "Making faster processors is getting harder, and the market for buying new computers is slowing down. Companies are getting desperate to sell new products, but how far will they go?",
+        "title": "The Daughters of Temperance Hobbs",
+        "author": "Katherin Howe",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 24.25
     },
     {
-        "title": "Floppy Disks",
-        "author": "Iam Holdt",
-        "description": "A villian has uploaded a database of life saving information onto many many many floppy disks. Can the team load the disks quickly enough before the disks expire?",
+        "title": "Evvie Drake Starts Over",
+        "author": "Linda Holmes",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 7.35
     },
     {
-        "title": "Bandwidth Stealer",
-        "author": "Rex Malton",
-        "description": "Someone in the office is taking all the bandwidth and watching videos. No one can get their work done.  Who is doing it?",
+        "title": "Alone At Dawn",
+        "author": "Dan Schilling, Lori Chapman Longfritz",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 31.22
     },
     {
-        "title": "Ironic Ionic",
+        "title": "Burn After Writing",
         "author": "John Doe",
-        "description": "A team is tasked with making prokects in Ionic,  but their competitor seems to keep beatingthem on deadlines using React Native. Is there a spy working for the competitor?",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 4.35
     },
     {
-        "title": "The Scrum Master",
-        "author": "Harry Hendrix",
-        "description": "Gather around the conference table,  we're about to have our morning Scrum!.",
+        "title": "CHAOS",
+        "author": "Tom O'Neill",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 14.35
     },
     {
-        "title": "Another Book Title",
-        "author": "Eric Wang",
-        "description": "I blanked out on an idea for this book. I knew I wanted it to be expensive though.",
+        "title": "The Last House Guest",
+        "author": "Megan Miranda",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 234.35
     },
     {
-        "title": "Six Year Fear",
-        "author": "Ezra Jolel",
-        "description": "Every six years,  the tech industry goes through a change of skills that changes it's approach and performance. Can developers survive it?",
+        "title": "The Enemy of the People",
+        "author": "Jim Acosta",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",        
         "price": 8.35
     }
 ]

@@ -11,6 +11,7 @@ import { SecondaryNavComponent } from './layout/header/secondary-nav/secondary-n
 import { HomeComponent } from './components/home/home.component';
 import { BookComponent } from './components/book/book.component';
 import { HeroComponent } from './components/home/hero/hero.component';
+import { SidenavListComponent } from './components/home/sidenav-list/sidenav-list.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { HeroComponent } from './components/home/hero/hero.component';
     SecondaryNavComponent,
     HomeComponent,
     BookComponent,
-    HeroComponent
+    HeroComponent,
+    SidenavListComponent
   ],
   imports: [
     BrowserModule,
