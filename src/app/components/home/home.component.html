@@ -6,8 +6,8 @@
             <h4>Most Popular Books Featured</h4>
             <div class="row">
                 <div class="col-4 mt-3 mb-2" *ngFor="let booklist of booklist, let i=index">
-                    <p><img src="/assets/images/book-{{i+1}}.jpg"></p>
-                    <h6>{{booklist.title}}</h6>
+                    <p><a routerLink="/book/{{i}}"><img src="/assets/images/book-{{i+1}}.jpg"></a></p>
+                    <h6><a routerLink="/book/{{i}}">{{booklist.title}}</a></h6>
                     <p>{{booklist.author}} - <span class="bookprice">{{booklist.price | currency}}</span></p>
                     <p><em>{{booklist.description}}</em></p>
                 </div>

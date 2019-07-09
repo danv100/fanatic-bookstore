@@ -1,7 +1,7 @@
 <H5>Featured Releases:</H5>
 <ul class="sideNav-list">
-    <li *ngFor="let booklist of booklist">
-        <strong>{{booklist.title}}</strong>
+    <li *ngFor="let booklist of booklist, let i=index;">
+        <strong><a routerLink="/book/{{i}}">{{booklist.title}}</a></strong>
         <br />{{booklist.author}}
     </li>
 </ul>

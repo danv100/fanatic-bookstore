@@ -6,7 +6,8 @@
             <p>
                 <img class="bookImage" src="/assets/images/book-{{ booklistImage | number }}.jpg">
                 <span class="price">{{booklistSelection.price | currency}}</span>
-                <button class="btn btn-primary">Purchase</button>
+                <button class="btn btn-primary">Purchase</button>&nbsp;
+                <button routerLink="/" class="btn btn-danger">Back</button>
             </p>
             <p>
                 {{booklistSelection.description}}
