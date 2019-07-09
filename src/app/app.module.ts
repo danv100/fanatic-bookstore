@@ -10,6 +10,7 @@ import { AccountInfoComponent } from './layout/header/account-info/account-info.
 import { SecondaryNavComponent } from './layout/header/secondary-nav/secondary-nav.component';
 import { HomeComponent } from './components/home/home.component';
 import { BookComponent } from './components/book/book.component';
+import { HeroComponent } from './components/home/hero/hero.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { BookComponent } from './components/book/book.component';
     AccountInfoComponent,
     SecondaryNavComponent,
     HomeComponent,
-    BookComponent
+    BookComponent,
+    HeroComponent
   ],
   imports: [
     BrowserModule,
