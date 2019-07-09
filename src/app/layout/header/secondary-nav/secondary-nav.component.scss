@@ -1,7 +1,6 @@
 
 .secondaryNav {
     background-color: #e9e9e9;
-    // display:none;
     margin-left: auto;
     margin-right: auto;
     left: 0;
@@ -10,6 +9,14 @@
     padding-bottom: 1em;
     padding-top: 1em;
     z-index: 10;
+
+    opacity: 1;
+    animation: fade .2s linear;
+
+    @keyframes fade {
+        0% { opacity: 0 }
+        100% { opacity: 1 }
+    }
 
     .secondaryListOptions {
         list-style-type: none;
