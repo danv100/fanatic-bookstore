@@ -1,2 +1,18 @@
-<p>book works!</p>
-<p>{{currentBook | json}}</p>
+<div class="container">
+    <div class="row">
+        <div class="col mt-3 mb-3">
+            <h3>{{booklistSelection.title}}</h3>
+            <p>{{booklistSelection.author}}</p>
+            <p>
+                <img class="bookImage" src="/assets/images/book-{{ booklistImage | number }}.jpg">
+                <span class="price">{{booklistSelection.price | currency}}</span>
+                <button class="btn btn-primary">Purchase</button>
+            </p>
+            <p>
+                {{booklistSelection.description}}
+            </p>
+        </div>
+    </div>
+</div>
+
+
